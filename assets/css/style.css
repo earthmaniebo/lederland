@@ -133,3 +133,40 @@ a:hover {
 	background-color: #4a4a4a;
 	text-align: left;
 }
+
+.branchesContainer {
+	width: 739px;
+	height: 370px;
+}
+
+#branches1Container {
+	float: left;
+	width: 175px;
+	height: 370px;
+	background-color: #4a4a4a;
+	margin-right: 10px;
+}
+
+#branches2Container {
+	float: left;
+	width: 175px;
+	height: 370px;
+	background-color: #4a4a4a;
+	margin-right: 10px;
+}
+#branches3Container {
+	float: left;
+	width: 175px;
+	height: 370px;
+	background-color: #4a4a4a;
+	margin-right: 10px;
+}
+#branches4Container {
+	float: left;
+	width: 175px;
+	height: 370px;
+	background-color: #4a4a4a;
+}
+
+
+
