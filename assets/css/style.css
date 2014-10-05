@@ -41,15 +41,15 @@ body {
 }
 
 .textbox { 
-    background: #6e6e6e; 
-    height:25px; 
-    width: 200px; 
-    border-radius: 2em; 
-    border: none; 
-    color: #A2A2A2; 
-    padding-left: 1.5em; 
-    outline: none; 
-    box-shadow: 0 4px 6px -5px hsl(0, 0%, 40%), inset 0px 4px 6px -5px hsl(0, 0%, 2%) 
+    background: #6e6e6e;
+    height:25px;
+    width: 200px;
+    border-radius: 2em;
+    border: none;
+    color: #A2A2A2;
+    padding-left: 1.5em;
+    outline: none;
+    box-shadow: 0 4px 6px -5px hsl(0, 0%, 40%), inset 0px 4px 6px -5px hsl(0, 0%, 2%)
 } 
 
 
@@ -168,5 +168,57 @@ a:hover {
 	background-color: #4a4a4a;
 }
 
+.servicesTitleContainer {
+	float: left;
+	width: 165px;
+	height: 494px;
+	margin: 0 0 0 30px;
+}
 
+.servicesTitle1 {
+	width: 135px;
+	height: 30px;
+	background: #6e6e6e;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 0 5px 0;
+	padding: 10px 10px 15px 10px;
+	cursor: pointer;
+}
 
+.servicesTitle2 {
+	width: 135px;
+	height: 20px;
+	background: #6e6e6e;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 0 5px 0;
+	padding: 20px 10px 15px 10px;
+	cursor: pointer;
+}
+
+.servicesTitle3 {
+	width: 135px;
+	height: 55px;
+	background: #6e6e6e;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 0 5px 0;
+	padding: 0px 10px 0px 10px;
+	cursor: pointer;
+}
+
+.servicesTitle4 {
+	width: 155px;
+	height: 74px;
+	background: #6e6e6e;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 0 5px 0;
+	padding: 0px 0px 0px 0px;
+	cursor: pointer;
+}
+
+.servicesTitleContainer a {
+	text-decoration: none;
+}
