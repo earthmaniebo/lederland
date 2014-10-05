@@ -126,6 +126,23 @@ a:hover {
 	background-color: #ffffff;
 }
 
+.newsContent p {
+	margin-left:10px;
+	font-family: Arial;
+}
+
+.newsContent a {
+	color: red;
+}
+
+.newsContent a:hover {
+	color: red;
+}
+
+.newsContent a:visited {
+	color: red;
+}
+
 .aboutContent {
 	padding: 0px 5px 0 5px;
 	width: 729px;
@@ -178,7 +195,7 @@ a:hover {
 .servicesTitle1 {
 	width: 135px;
 	height: 30px;
-	background: #6e6e6e;
+	background: #4a4a4a;
 	border-radius: 10px;
 	text-align: center;
 	margin: 0 0 5px 0;
@@ -189,7 +206,7 @@ a:hover {
 .servicesTitle2 {
 	width: 135px;
 	height: 20px;
-	background: #6e6e6e;
+	background: #4a4a4a;
 	border-radius: 10px;
 	text-align: center;
 	margin: 0 0 5px 0;
@@ -200,7 +217,7 @@ a:hover {
 .servicesTitle3 {
 	width: 135px;
 	height: 55px;
-	background: #6e6e6e;
+	background: #4a4a4a;
 	border-radius: 10px;
 	text-align: center;
 	margin: 0 0 5px 0;
@@ -211,7 +228,7 @@ a:hover {
 .servicesTitle4 {
 	width: 155px;
 	height: 74px;
-	background: #6e6e6e;
+	background: #4a4a4a;
 	border-radius: 10px;
 	text-align: center;
 	margin: 0 0 5px 0;
@@ -221,4 +238,58 @@ a:hover {
 
 .servicesTitleContainer a {
 	text-decoration: none;
+}
+
+.articleContainer {
+	background-color: #4a4a4a;
+	width: 800px;
+	padding: 0 10px 0 10px;
+}
+
+.articleHeaderTitle {
+	padding: 10px 0 0 0;
+	font-family: neversaydie;
+}
+
+.articleHeadline {
+	margin: 0 0 0 -10px;
+	background-color: #cf3e43;
+	padding: 10px 10px 10px 10px;
+	width: 800px;
+}
+
+.galleryContainer {
+	margin: 0 0 0 30px;
+}
+
+.imageHeadline {
+	background-color: #cf3e43;
+	padding: 10px 10px 10px 10px;
+	width: 800px;
+}
+
+.imageContainer {
+	margin:  0 0 0 10px;
+}
+
+.imageContainer a {
+	text-decoration: none;
+}
+
+.galleryImage {
+	float: left;
+	margin: 0 10px 30px 0;
+	width: 245px;
+}
+
+.galleryImage a {
+	color: #ffffff;
+}
+
+.galleryImage a:hover {
+	color: gray;
+}
+
+.galleryImage a:visited {
+	color: #ffffff;
 }
