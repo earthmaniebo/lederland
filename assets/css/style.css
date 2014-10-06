@@ -293,3 +293,13 @@ a:hover {
 .galleryImage a:visited {
 	color: #ffffff;
 }
+
+.shockBubble {
+	position: absolute;
+	margin: -20px 0 0 -20px;
+	width: 77px;
+	height: 65px;
+	/*text-align: center;*/
+	padding: 35px 0 0 23px;
+	background: url('newtag.png') no-repeat;
+}
